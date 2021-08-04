@@ -1,0 +1,25 @@
+.Posts {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+}
+.imgC {
+    width:14px;
+    background-color:gray;
+}
+.alink{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin:0 10px;
+}
+.cls {
+    height: 70px;
+    background: #090b13;
+    display: flex;
+    align-items: center;
+    padding: 0 36px;
+}
