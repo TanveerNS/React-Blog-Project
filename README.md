@@ -1,9 +1,13 @@
 # React-Blog-Project
 
 Install and Run Project
+
 git clone this repo
+
 cd my-shopping-app
+
 npm install
+
 npm start
 
 Blog Home screen
